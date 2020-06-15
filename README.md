@@ -16,9 +16,11 @@ Udacity
  
 # Results
 Q1
+
 September and October are the peaks of the price while from December to March is the slow season in Boston. Friday and Saturday have the highest price while Monday to Wednesday has the lowest. Interesting to see the relatively high price on Mondays and Sundays in April, which is the probable result of the famous Boston Marathon that held on April Monday in 2016. Another interesting fact is the highest price in September is on Thursday.
 
 Q2
+
 Although listings vary in size and quality, the average price in the different neighborhoods would provide a benchmark for the new hosts who are trying to decide the price of their listings. Leather District is the highest in Boston with an average price of $344.7 and Hyde Park having the lowest average price of $68.8
 
 Q3
